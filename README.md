@@ -11,5 +11,5 @@ The project took me longer to complete than I initially anticipated as I ran int
 - Trying to figure out the best placement for lighting and the intensity of each light to best suit the scene. 
 
 
-# GVR Version 
+### GVR Version 
 I could not find wqhich specific version of the GVR was used but I used the pakage included with the project zip file. 
