@@ -1,1 +1,2 @@
-# Udacity-VR-Nanodegree-Project-2
+# Course 2 Project
+
