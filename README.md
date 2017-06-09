@@ -14,7 +14,7 @@ The project took me longer to complete than I initially anticipated as I ran int
 
 
 ### GVR Version 
-I could not find wqhich specific version of the GVR was used but I used the pakage included with the project zip file. 
+I could not find which specific version of the GVR was used but I used the pakage included with the project zip file. 
 
 ### Platform
 Android Version 7.0, Samsung Galaxy S8.
